@@ -1,3 +1,8 @@
+**이러나 프로젝트 개발자분의 허락 하에 fork 하였습니다.**
+
+
+**공부 차원에서 이러나 프로젝트를 분석하여 기록하고자 합니다.**
+
 |<img src = "https://github.com/Eruna-Jeoruna/jeoruna/assets/47443884/86d73e0e-fdc1-4009-b809-f88ce94ad1e2" width = "70%" height = "70%">|
 |:--:| 
 | *[prography.org](https://prography.org)* |
